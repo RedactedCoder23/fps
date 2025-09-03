@@ -1,7 +1,7 @@
 # Project: Tactical 5v5 FPS (Godot 4) with Squad Roles + Impact Scoring
 
 ## Vision
-CS-style gunplay and bomb/defuse objective. Four squad roles:
+ -style gunplay and bomb/defuse objective. Four squad roles:
 - Entry (movement/space taking)
 - Medic (heals/revives)
 - Utility Specialist (bomb carrier + utility economy; faster plant/defuse)
